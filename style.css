@@ -26,8 +26,12 @@ h1 {
   font-family: 'Brush Script MT', cursive;
 }
 
-.players {
-  background-color: black;
+.player1, .player2 {
+  height: 200px;
+  width: 200px;
+}
+
+.player1 img, .player2 img {
   height: 200px;
   width: 200px;
 }
